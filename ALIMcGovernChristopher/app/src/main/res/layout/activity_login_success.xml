@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context="com.mcgovern.chris.googlemapsapp.LoginSuccessActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Welcome, "
+        android:gravity="center_horizontal"
+        android:id="@+id/txt_success_name"
+        android:textColor="#1E90FF"
+        android:textSize="25sp"
+        android:textAlignment="center" />
+    <Button
+        android:id="@+id/buttonRestaurantsInOmagh"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Restaurants in Omagh"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:onClick="RestaurantsInOmagh"/>
+    <Button
+        android:id="@+id/buttonRestaurantsInEniskillen"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Restaurants in Eniskillen"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:onClick="RestaurantsInEniskillen"/>
+    <Button
+        android:id="@+id/buttonRestaurantsInStrabane"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Restaurants in Strabane"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:onClick="RestaurantsInStrabane"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Out"
+        android:id="@+id/btn_logout"
+        android:layout_below="@+id/txt_success_name"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAlignment="center"/>
+
+</LinearLayout>
