@@ -1,5 +1,5 @@
 
-[Screenshot](file:///C:/Users/Chris/OneDrive/Pictures/FitnessScreenshot.PNG)
+[Screenshot](file://C:/Users/Chris/OneDrive/Pictures/FitnessScreenshot.PNG)
 
 Specification of the App 
 The App is an Activity-logging app that tracks daily activity of the user and records this for subsequent review and fitness progress monitoring. 
