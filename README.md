@@ -1,6 +1,4 @@
 
-[Screenshot](file://C:/Users/Chris/OneDrive/Pictures/FitnessScreenshot.PNG)
-
 Specification of the App 
 The App is an Activity-logging app that tracks daily activity of the user and records this for subsequent review and fitness progress monitoring. 
 The app will record the user’s daily activities allowing them to build an activity profile over time. The app will enable the user to view their activity behavior and to evaluate their achievement in various ways.
