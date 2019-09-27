@@ -26,9 +26,7 @@ The fitness app will be using lots of energy and power from the device and how b
 Testing 
 I tested my app by using a trace file within each of the activities to test for any bugs or lag on the project. The results were clean and the app is running smoothly. 
 
-Publication 
-I am publishing the app on Samsung apps.com as it is free and provides a platform for the app. Setup is shown below:
- 
+
 Conclusion 
 From creating this I will now always know and remember how to begin most of the tedious tasks to begin the app development such as connecting a device to debug on and downloading the correct software.  I have further developed my skills with java. I have knowledge on how to test my app and publish it for free. Android studio is now my main IDE to develop app as I found it very user friendly and useful. 
 
